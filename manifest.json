@@ -1,0 +1,9 @@
+{
+  "name": "Scroll To Top Github Answer",
+  "version": "1.1",
+  "description": "Do you, noble engineer, waste too many fruitless hours reading what other people have written about the problem you're facing? You will sleep soundly tonight knowing advanced machine computer intelligence has made it possible to skip directly to the highest thumbs-up'd answer, thus making you a 10x engineer. In lieu of a software license, if you figure out how to monetize this somehow, please feel bad about your actions for approximately 3 (three) minutes",
+  "permissions": [
+    "https://github.com/"
+  ],
+  "manifest_version": 2
+}
