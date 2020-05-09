@@ -1,3 +1,6 @@
+// btadd.addEventListener('findBestComment')
+console.log('trigg')
+
 var thumb_list = [];
 var elements = document.getElementsByClassName("emoji mr-1");
 
@@ -14,3 +17,11 @@ for(var i = 0; i< elements.length; i++){
         elements[i].focus();
     }
 }
+
+console.log('all done and also why are you reading this')
+
+
+    // "browser_action": {
+    //     "default_title": "Click this button if you want, or don't, I'm not your boss",
+    //     "default_popup": "popup.html"
+    // },
